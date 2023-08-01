@@ -21,6 +21,7 @@
   </a>
 </div>
 
+<!---
 #
 
 <h4 align="center">My Top Projects:</h5>
@@ -31,4 +32,4 @@
     <a href="https://github.com/Hpouralireza/linearRegression_in_cryptocurrency"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hpouralireza&repo=linearRegression_in_cryptocurrency&theme=github_dark&hide_border=false&show_icons=false&show_description=false" alt="linearRegression_in_cryptocurrency"></a>
     <a href="https://github.com/Hpouralireza/lineDetection_with_OpenCV"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hpouralireza&repo=lineDetection_with_OpenCV&theme=github_dark&hide_border=false&show_icons=false&show_description=false" alt="lineDetection_with_OpenCV"></a><br><br>
   <a href="https://github.com/hpouralireza?tab=repositories"><img width="200" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Other%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
+--->
