@@ -2,8 +2,11 @@
 <h3 align="center">
   <p>Hi, I'm Hossein Pouralireza<br></p>
 </h3>
+<h3 align="center">
+  <b>Data Analyst</b><br>
+</h3>
 <h4 align="center">
-  <b>Entry-Level Data Scientist & Python Developer! </b><br>
+  <b>Interested in Data Science, Machine Learning, and Image Processing.</b><br>
 </h4>
 
 <div align="center">
